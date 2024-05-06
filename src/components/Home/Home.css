@@ -1,0 +1,19 @@
+.home .card{
+    height:10.9375rem; width:25rem;
+    padding: 0.3125rem;
+    background-repeat:no-repeat;
+    background-size: contain;
+    display: flex;
+    align-items: center;
+    margin: 0rem 1.875rem;
+    background-color: gray;
+}
+
+.home .container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    width: 90vw;
+    border: 0.5rem black;
+}

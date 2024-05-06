@@ -1,0 +1,14 @@
+.navbar{
+    border-bottom: 0.1875rem solid black;
+    background-color: lightgrey;
+}
+
+.navbar img{
+    margin-left: 1.25rem;
+}
+
+.navbar-nav li{
+    font-family: sans-serif;
+    font-weight: bold ;
+    margin: 0rem 0.625rem;
+}
