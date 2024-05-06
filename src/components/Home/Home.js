@@ -1,6 +1,5 @@
 import React from "react";
 import "./Home.css";
-import onetImg from "./1stImg.jpg";
 import { NavLink } from "react-router-dom";
 
 const Home = () => {
